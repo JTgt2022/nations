@@ -5,8 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Continent extends Model
+class Languaje extends Model
 {
-    protected $table = "continents";
     use HasFactory;
 }
